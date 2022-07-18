@@ -8,7 +8,7 @@ https://github.com/sanjaybasu/riskmodeling/
 
 Sanjay Basu, M.D., Ph.D.,1,2* Jeremy B. Sussman, M.D., M.S.3,4, Joseph Rigdon, Ph.D.,5 Lauren Steimle, M.S.E.,6 Brian Denton, Ph.D.,6 Rod A. Hayward, M.D.3,4
 
-1 Research and Analytics, Collective Health
+1 Research and Development, Waymark
 2 Center for Primary Care, Harvard Medical School
 3 Division of General Medicine, University of Michigan
 4 Center for Clinical Management Research, Veterans Affairs Ann Arbor Healthcare System
